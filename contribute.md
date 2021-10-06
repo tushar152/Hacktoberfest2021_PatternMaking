@@ -10,3 +10,4 @@ happy hactoberfest 2021
 <p>jeyabalaji | <a href="https://https://github.com/jaibalajiui?tab=repositories">jeyabalajips</a>  | <a href="jeyabalajijbp@gmail.com">mail id</a> |</p>
 <p>Satakshi Pal | <a href="https://github.com/SATAKSHI08">SATAKSHI08</a>  | <a href="satakshi.pal.civ19@itbhu.ac.in">mail id</a> |</p>
 <p>Suman Parajuli |<a href="https://github.com/SumanParajuli">SumanParajuli </a> | <a href="sumansupercell@gmail.com">mail id</a> | </p>
+<p>Ishir Agrawal |<a href="https://github.com/ishir21">ishir21</a> | <a href="ishiragrawal02@gmail.com">mail id</a> | </p>
