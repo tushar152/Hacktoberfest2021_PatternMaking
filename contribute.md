@@ -19,4 +19,5 @@ happy hactoberfest 2021
 <p>Yug Raval |<a href="https://github.com/YUG-RAVAL">YUG-RAVAL</a> | <a href="yugsraval@gmail.com">mail id</a> | </p>
 <p>Akash Sharma |<a href="https://github.com/Akash2790">Akash2790</a> | <a href="akashsh27901@gmail.com">mail id</a> | </p>
 <p>Souvik Mishra | <a href="https://github.com/souvikmishra">Github</a> | <a href="mishra.souvik911@gmail.com">Email</a> | </p>
+<p>Altaf Shaikh | <a href="https://github.com/altafshaikh">Github</a> | <a href="altafshaikh@teachmebro.com">Email</a> | </p>
 
