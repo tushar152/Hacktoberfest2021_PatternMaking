@@ -6,7 +6,7 @@ int main() {
     
   
     int n;
-    cin>>n;
+    cin>>n;  //enter no. of rows
     int i=1;
     int mid=n/2;
     while(i<=mid+1)
