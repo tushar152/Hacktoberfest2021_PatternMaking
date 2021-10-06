@@ -8,7 +8,7 @@
 -🤖 Java <br/>
 -🤖 Javascript <br/>
   <img src="./images/46684_1580817324.png"/>
-  <img src="./images/46684_1580817324.png"/>
+  <img src="./images/55984_1580817324.png"/>
 in respective folders on any topic don't forget to read the rules below for sucesssful acceptance of PR</h2>
 <p>👷‍♂️ Contribute to this repo and earn rewards.</p>
 <p>⚙️ Visit The hacktoberfest website for more information <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2021</a>
