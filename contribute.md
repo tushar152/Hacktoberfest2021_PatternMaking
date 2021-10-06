@@ -16,5 +16,7 @@ happy hactoberfest 2021
 <p>Suman Parajuli |<a href="https://github.com/SumanParajuli">SumanParajuli </a> | <a href="sumansupercell@gmail.com">mail id</a> | </p>
 <p>Ishir Agrawal |<a href="https://github.com/ishir21">ishir21</a> | <a href="ishiragrawal02@gmail.com">mail id</a> | </p>
 <p>Aditya Singh |<a href="https://github.com/codehack04">codehack04</a> | <a href="adityaanu04ss@gmail.com">mail id</a> | </p>
+<p>Yug Raval |<a href="https://github.com/YUG-RAVAL">YUG-RAVAL</a> | <a href="yugsraval@gmail.com">mail id</a> | </p>
 <p>Akash Sharma |<a href="https://github.com/Akash2790">Akash2790</a> | <a href="akashsh27901@gmail.com">mail id</a> | </p>
 <p>Souvik Mishra | <a href="https://github.com/souvikmishra">Github</a> | <a href="mishra.souvik911@gmail.com">Email</a> | </p>
+
