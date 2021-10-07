@@ -29,4 +29,6 @@ happy hactoberfest 2021
 
 <p>Yash Biyani | <a href="https://github.com/biyaniyash23">yash-biyani</a> | <a href="workyash23@gmail.com">mail id</a> | </p>
 
+<p>Zentreax | <a href="https://https://github.com/zentreax">GitHub</a>  | <a href="zen@zentreax.dev">Email</a> |</p>
+
 
