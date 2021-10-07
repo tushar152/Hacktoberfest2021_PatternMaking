@@ -23,4 +23,5 @@ happy hactoberfest 2021
 <p>Karishma | <a href="https://github.com/Divya333">Github</a> | <a href="vaddidivyasrikarishma@gmail.com.com">Email</a> | </p>
 <p>Arpit Arun Kumaar | <a href="https://github.com/arpitarunkumaar">arpitarunkumaar</a> | <a href="arpitak14@outlook.com">mail id</a> | </p>
 <p>Sayantan Pal | <a href="https://github.com/sayantan-world">sayantan-world</a> | <a href="sayantan.world98@gmail.com">mail id</a> | </p>
+<p>Yash Biyani | <a href="https://github.com/biyaniyash23">yash-biyani</a> | <a href="workyash23@gmail.com">mail id</a> | </p>
 
