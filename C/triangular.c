@@ -1,11 +1,9 @@
 #include<stdio.h> // include stdio.h
 
-int main() 
+int main()
 {
-    int n;
+    int n=5;
 
-    printf("Enter number of lines: ");
-    scanf("%d", &n);
 
     printf("\n");
 
