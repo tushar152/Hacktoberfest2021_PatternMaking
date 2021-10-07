@@ -28,5 +28,6 @@ happy hactoberfest 2021
 <p>Vinay Kumar  B M | <a href="https://github.com/VinayKumarBM">VinayKumarBM</a> | <a href="bmvinayk@gmail.com">email</a> | </p>
 
 <p>Yash Biyani | <a href="https://github.com/biyaniyash23">yash-biyani</a> | <a href="workyash23@gmail.com">mail id</a> | </p>
+<p>Divyanshu Tiwari | <a href="https://github.com/divyanshutw">divyanshutw</a> | <a href="divyanshutw@gmail.com">mail id</a> | </p>
 
 
