@@ -5,7 +5,7 @@ def pypart(n):
      
     # outer loop to handle number of rows
     # n in this case
-    for i in range(0, n):
+    for i in range(1, n+1):
      
         # inner loop to handle number of columns
         # values changing acc. to outer loop
