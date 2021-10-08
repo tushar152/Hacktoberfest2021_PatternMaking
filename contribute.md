@@ -33,4 +33,6 @@ happy hactoberfest 2021
 
 <p>Zentreax | <a href="https://https://github.com/zentreax">GitHub</a>  | <a href="zen@zentreax.dev">Email</a> |</p>
 
+<p>Adepu Loukya | <a href="https://github.com/A-Loukya">A-Loukya</a> | <a href="adepuloukya1@gmail.com">mail id</a> | </p>
+
 
