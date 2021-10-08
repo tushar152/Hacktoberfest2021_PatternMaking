@@ -28,6 +28,7 @@ happy hactoberfest 2021
 <p>Yash Biyani | <a href="https://github.com/biyaniyash23">yash-biyani</a> | <a href="workyash23@gmail.com">mail id</a> | </p>
 <p>maroof ansari | <a href="https://github.com/maroof31">maroof-ansari</a> | <a href="maroofansari144@gmail.com">mail id</a> | </p>
 <p>Divyanshu Tiwari | <a href="https://github.com/divyanshutw">divyanshutw</a> | <a href="divyanshutw@gmail.com">mail id</a> | </p>
+<p>Gagan Khatri | <a href="https://github.com/ItsGagan">ItsGagan</a> | <a href="itsgagankhatri@gmail.com">mail id</a> | </p>
 
 
 <p>Zentreax | <a href="https://https://github.com/zentreax">GitHub</a>  | <a href="zen@zentreax.dev">Email</a> |</p>
