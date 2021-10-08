@@ -30,4 +30,6 @@ happy hactoberfest 2021
 <p>Divyanshu Tiwari | <a href="https://github.com/divyanshutw">divyanshutw</a> | <a href="divyanshutw@gmail.com">mail id</a> | </p>
 
 
+<p>Zentreax | <a href="https://https://github.com/zentreax">GitHub</a>  | <a href="zen@zentreax.dev">Email</a> |</p>
+
 
